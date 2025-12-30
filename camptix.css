@@ -1,1 +1,14 @@
-background-color: red !important;
+/* CampTix Register button – brown */
+.campingtix-submit input.campingtix-submit-button,
+.campingtix-submit input[type="submit"] {
+  background-color: #6b3e26 !important;
+  border-color: #6b3e26 !important;
+  color: #ffffff !important;
+}
+
+.campingtix-submit input.campingtix-submit-button:hover {
+  background-color: #5a321f !important;
+  border-color: #5a321f !important;
+}
+
+
